@@ -11,9 +11,9 @@
                 "dynamodb:Scan"
             ],
             "Resource": [
-                "arn:aws:dynamodb:us-east-2:769203428018 :table/user-visits",
-                "arn:aws:dynamodb:us-east-2:769203428018 :table/user-visits-sam",
-				"arn:aws:dynamodb:us-east-2:769203428018 :table/user-visits-xray-sam" 				
+                "arn:aws:dynamodb:us-east-2:XXXXXXXXXXXX :table/user-visits",
+                "arn:aws:dynamodb:us-east-2:XXXXXXXXXXXX :table/user-visits-sam",
+				"arn:aws:dynamodb:us-east-2:XXXXXXXXXX :table/user-visits-xray-sam" 				
             ]
         }
     ]
