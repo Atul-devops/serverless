@@ -36,7 +36,7 @@ Resources:
       FunctionName: lambda-dynamo-data-api-sam
       Handler: lambda_return_dynamo_records.lambda_handler
       MemorySize: 128
-      Role: arn:aws:iam::769203428018:role/lambda-dynamo-data-api
+      Role: arn:aws:iam::XXXXXXXXXXX:role/lambda-dynamo-data-api
       Runtime: python2.7
       Timeout: 3
     Type: AWS::Serverless::Function
